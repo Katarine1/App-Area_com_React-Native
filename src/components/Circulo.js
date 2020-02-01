@@ -84,7 +84,7 @@ const estilos = StyleSheet.create({
     },
     vBotao: {
         flex: 2,
-        justifyContent: 'center',
+        justifyContent: 'flex-start',
         alignItems: 'center'
     },
     textos: {
