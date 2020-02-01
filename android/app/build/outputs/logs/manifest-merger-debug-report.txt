@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-safe-area-context] C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_masked-view] C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\ebee5b328fc7f63eea00259c5af4c683\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\90fc7d22cf9cd4efc9d50f59c3252968\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\609f0feecfab42a90ed78246584868a3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\87dc76ba7f38f36b9939379dc53b18d0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\c2d1f6dd223c57dc13a25348bc0c7436\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\972dbe7baf571756acebd07e060bea63\AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\955067df359a3cc25c46434dbe29ea6d\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\67a9c1b6d7ffe2a3dadb060bad3b8cd5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\b82f9b47f4480485919389efb77c4ad0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\a0ff341765f950fb8db9ef22413c304a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\5556bb74ea6095b7e55f4bedd80692f3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\50448cb4437b34889c74b8cee84ad91c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\572df67f2c5d16e973db870bc3ab83a0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\7fb49082c59b416aad9ebf0f5ae4edef\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\94a15dfda7f7f5f97ae96e03c5bbebcd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\a9e5e62a3920a1e52f2b233a2087acc7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\8afd082a442e8e3463ef791d09c5da8f\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\53afe7826d11b2a520bf7416125a2965\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\1f9dfb2304c64a7cbad532bd08ae0ae2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\eb610a0a057fc65de172825daf445afc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\84f2d5ebe6930ce7c47964821122012b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\abf8ed2df34c0229a2f268cfc5f5019b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\01f672cbd9270d00060e9306a84202ab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\d32500faf8c48ea73a0c5ea9431b29c6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\d087ac3830920aafe40711c2c857cba1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\338776cf0f53bf552d010f606481df42\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\9f4de8d369500f607b58a6248d348687\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\f1a29415cd06645e425c5b05c3d4454b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\41f3038908f8d01bbdab11f840767fb0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\d4756ebd9cb7b71882d0d653a6b3999c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\9cedf3b2ff38a97a3c9768e0eaa25d8f\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\e28f699db869821e3b45f90dd98a70c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\10781f3b50337e411db6c3a4754b069a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\b26e276703750ac748b2b36b8078d36d\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\073a91cffba9ccf76e255a6a6afb8f54\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\3dde449b04b35f483f29b2f5a1467747\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\69301fd965ea190ad22cb8cfd9401efc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\def5a1596307b6e780b0fd177eda87e3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\e034174b731bd5c863c190abdbd8efb5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\0f6406510dbd6023f8d972b4c26d8837\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\b1089a5f0bfd3445b15f810444444165\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\6b4226655a115c4b660503b7e0c6d43c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\f6028bb2a795302838eabffdbd86e7bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\ee3ae79683b06d4cbf9c5824fcae3d35\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:2:3-26
+		INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:2:3-26
+		INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\ebee5b328fc7f63eea00259c5af4c683\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\ebee5b328fc7f63eea00259c5af4c683\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\90fc7d22cf9cd4efc9d50f59c3252968\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\90fc7d22cf9cd4efc9d50f59c3252968\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\8afd082a442e8e3463ef791d09c5da8f\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\8afd082a442e8e3463ef791d09c5da8f\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\9cedf3b2ff38a97a3c9768e0eaa25d8f\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\9cedf3b2ff38a97a3c9768e0eaa25d8f\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\b26e276703750ac748b2b36b8078d36d\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\b26e276703750ac748b2b36b8078d36d\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\9cedf3b2ff38a97a3c9768e0eaa25d8f\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.appfigura.MainActivity
+ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-safe-area-context] C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_masked-view] C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\ebee5b328fc7f63eea00259c5af4c683\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\ebee5b328fc7f63eea00259c5af4c683\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\90fc7d22cf9cd4efc9d50f59c3252968\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\90fc7d22cf9cd4efc9d50f59c3252968\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\609f0feecfab42a90ed78246584868a3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\609f0feecfab42a90ed78246584868a3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\87dc76ba7f38f36b9939379dc53b18d0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\87dc76ba7f38f36b9939379dc53b18d0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\c2d1f6dd223c57dc13a25348bc0c7436\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\c2d1f6dd223c57dc13a25348bc0c7436\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\972dbe7baf571756acebd07e060bea63\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\972dbe7baf571756acebd07e060bea63\AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\955067df359a3cc25c46434dbe29ea6d\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\955067df359a3cc25c46434dbe29ea6d\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\67a9c1b6d7ffe2a3dadb060bad3b8cd5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\67a9c1b6d7ffe2a3dadb060bad3b8cd5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\b82f9b47f4480485919389efb77c4ad0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\b82f9b47f4480485919389efb77c4ad0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\a0ff341765f950fb8db9ef22413c304a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\a0ff341765f950fb8db9ef22413c304a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\5556bb74ea6095b7e55f4bedd80692f3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\5556bb74ea6095b7e55f4bedd80692f3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\50448cb4437b34889c74b8cee84ad91c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\50448cb4437b34889c74b8cee84ad91c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\572df67f2c5d16e973db870bc3ab83a0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\572df67f2c5d16e973db870bc3ab83a0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\7fb49082c59b416aad9ebf0f5ae4edef\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\7fb49082c59b416aad9ebf0f5ae4edef\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\94a15dfda7f7f5f97ae96e03c5bbebcd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\94a15dfda7f7f5f97ae96e03c5bbebcd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\a9e5e62a3920a1e52f2b233a2087acc7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\a9e5e62a3920a1e52f2b233a2087acc7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\8afd082a442e8e3463ef791d09c5da8f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\8afd082a442e8e3463ef791d09c5da8f\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\53afe7826d11b2a520bf7416125a2965\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\53afe7826d11b2a520bf7416125a2965\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\1f9dfb2304c64a7cbad532bd08ae0ae2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\1f9dfb2304c64a7cbad532bd08ae0ae2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\eb610a0a057fc65de172825daf445afc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\eb610a0a057fc65de172825daf445afc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\84f2d5ebe6930ce7c47964821122012b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\84f2d5ebe6930ce7c47964821122012b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\abf8ed2df34c0229a2f268cfc5f5019b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\abf8ed2df34c0229a2f268cfc5f5019b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\01f672cbd9270d00060e9306a84202ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\01f672cbd9270d00060e9306a84202ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\d32500faf8c48ea73a0c5ea9431b29c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\d32500faf8c48ea73a0c5ea9431b29c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\d087ac3830920aafe40711c2c857cba1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\d087ac3830920aafe40711c2c857cba1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\338776cf0f53bf552d010f606481df42\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\338776cf0f53bf552d010f606481df42\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\9f4de8d369500f607b58a6248d348687\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\9f4de8d369500f607b58a6248d348687\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\f1a29415cd06645e425c5b05c3d4454b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\f1a29415cd06645e425c5b05c3d4454b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\41f3038908f8d01bbdab11f840767fb0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\41f3038908f8d01bbdab11f840767fb0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\d4756ebd9cb7b71882d0d653a6b3999c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\d4756ebd9cb7b71882d0d653a6b3999c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\9cedf3b2ff38a97a3c9768e0eaa25d8f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\9cedf3b2ff38a97a3c9768e0eaa25d8f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\e28f699db869821e3b45f90dd98a70c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\e28f699db869821e3b45f90dd98a70c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\10781f3b50337e411db6c3a4754b069a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\10781f3b50337e411db6c3a4754b069a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\b26e276703750ac748b2b36b8078d36d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\b26e276703750ac748b2b36b8078d36d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\073a91cffba9ccf76e255a6a6afb8f54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\073a91cffba9ccf76e255a6a6afb8f54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\3dde449b04b35f483f29b2f5a1467747\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\3dde449b04b35f483f29b2f5a1467747\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\69301fd965ea190ad22cb8cfd9401efc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\69301fd965ea190ad22cb8cfd9401efc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\def5a1596307b6e780b0fd177eda87e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\def5a1596307b6e780b0fd177eda87e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\e034174b731bd5c863c190abdbd8efb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\e034174b731bd5c863c190abdbd8efb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\0f6406510dbd6023f8d972b4c26d8837\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\0f6406510dbd6023f8d972b4c26d8837\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\b1089a5f0bfd3445b15f810444444165\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\b1089a5f0bfd3445b15f810444444165\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\6b4226655a115c4b660503b7e0c6d43c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\6b4226655a115c4b660503b7e0c6d43c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\f6028bb2a795302838eabffdbd86e7bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\f6028bb2a795302838eabffdbd86e7bd\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\ee3ae79683b06d4cbf9c5824fcae3d35\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\kba-azul\.gradle\caches\transforms-2\files-2.1\ee3ae79683b06d4cbf9c5824fcae3d35\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\kba-azul\Documents\ProjetosReactNative\appFigura\android\app\src\debug\AndroidManifest.xml:5:22-75
