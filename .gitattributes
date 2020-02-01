@@ -1,1 +1,5 @@
-*.pbxproj -text
+$ cat .gitattributes
+*.js linguist-language=javascript
+*.css linguist-language=javascript
+
+

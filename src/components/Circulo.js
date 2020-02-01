@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, Text, StyleSheet, TextInput, TouchableHighlight } from 'react-native';
+import { View, Text, StyleSheet, TextInput, TouchableHighlight, StatusBar } from 'react-native';
 
 export default class Circulo extends Component {
     constructor(props){
@@ -37,6 +37,9 @@ export default class Circulo extends Component {
     render() {
         return (
             <View style={estilos.principal}>
+                <StatusBar 
+                    backgroundColor="#3fa81e"
+                />
                 <View style={estilos.vTitulo}>
                     <Text style={estilos.textos}>Área</Text>
                 </View>

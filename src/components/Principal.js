@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, Text, TouchableHighlight, StyleSheet, ScrollView } from 'react-native';
+import { View, Text, TouchableHighlight, StatusBar, StyleSheet, ScrollView } from 'react-native';
 
 export default class Principal extends Component {
     static navigationOptions = {
@@ -12,6 +12,9 @@ export default class Principal extends Component {
     render() {
         return (
             <View style={estilos.principal}>
+                <StatusBar 
+                    backgroundColor="#3fa81e"
+                />
                 <ScrollView >                
                     <View style={estilos.vTitulo}>
                         <Text style={estilos.textTitulo}>Área das Figuras</Text>

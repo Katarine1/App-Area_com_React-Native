@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, Text, TextInput, TouchableHighlight, StyleSheet } from 'react-native';
+import { View, Text, TextInput, TouchableHighlight, StatusBar, StyleSheet } from 'react-native';
 
 export default class Quadrado extends Component {
     constructor(props) {
@@ -33,8 +33,11 @@ export default class Quadrado extends Component {
     }
 
     render() {
-        return (
+        return (            
             <View style={estilos.principal}>
+                <StatusBar 
+                    backgroundColor="#3fa81e"
+                />
                 <View style={estilos.vTitulo}>
                     <Text style={estilos.textos}>Área</Text>
                 </View>
