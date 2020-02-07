@@ -16,7 +16,7 @@ export default class Quadrado extends Component {
     }
 
     calcularArea() {
-        let area = parseFloat(this.state.lado.toString().replace(",", ".")) * 4;
+        let area = Math.pow(parseFloat(this.state.lado.toString().replace(",", ".")), 2);
         this.setState({resultado : Math.floor(area)});
         this.limpaCampo();
     }
